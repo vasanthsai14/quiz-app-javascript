@@ -16,7 +16,10 @@ This project consists of the following key files:
 - **Category and Difficulty Selection:** Users can customize their quiz experience by selecting the number of questions, category, and difficulty.
 
 ## How to Use
-1. Clone this repository to your local machine. 
+1. Clone this repository to your local machine.
+   ```bash
+    git clone https://github.com/vasanthsai14/quiz-app-javascript.git
+    ``` 
 2. Open index.html in your web browser to launch the quiz app.
 3. Customize your quiz experience by selecting the number of questions, category, and difficulty.
 4. Click "Start Quiz" to begin the quiz and test your knowledge.
